@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+export const runtime = "edge";
 
 body {
   font-family: Arial, Helvetica, sans-serif;
